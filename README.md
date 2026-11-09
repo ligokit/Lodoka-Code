@@ -34,7 +34,7 @@ Lodoka Code объединяет AI-чаты, рабочие папки, фай�
 
 | Светлая тема | Встроенный терминал |
 | :---: | :---: |
-| [![Рабочее пространство в светлой теме](docs/images/workspace-light.png)](docs/images/workspace-light.png) | [![Терминал PowerShell в рабочем пространстве](docs/images/terminal.png)](docs/images/terminal.png) |
+| [![Рабочее пространство в светлой теме](docs/images/workspace-light-0.6.0.png)](docs/images/workspace-light-0.6.0.png) | [![Терминал PowerShell в рабочем пространстве](docs/images/terminal.png)](docs/images/terminal.png) |
 
 <details>
 <summary><strong>Внешний вид и типографика</strong></summary>
