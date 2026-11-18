@@ -99,7 +99,4 @@ Git понадобится для Git-операций и контрольных
 </details>
 
 ---
-
-Lodoka Code — независимый проект на основе [Team Room Community](https://github.com/iintuziasty-web/team-room). Это не официальный клиент OpenAI или Anthropic. Публичная страница проекта: [ligokit/Lodoka-Code](https://github.com/ligokit/Lodoka-Code).
-
-Сохранены исходная [лицензия MIT](LICENSE), © 2026 Team Room Contributors, и [уведомления сторонних компонентов](THIRD_PARTY_NOTICES.md).
+[лицензия MIT](LICENSE) и [уведомления сторонних компонентов](THIRD_PARTY_NOTICES.md).
